@@ -1,4 +1,4 @@
-module github.com/spin_kv_counter
+module github.com/spin-kv-counter-go
 
 go 1.20
 
